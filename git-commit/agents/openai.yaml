@@ -1,0 +1,4 @@
+interface:
+  display_name: "Git Commit"
+  short_description: "Draft and run Conventional Commits"
+  default_prompt: "Use $git-commit to analyze the current Git changes and create a Conventional Commit message in Brazilian Portuguese."
