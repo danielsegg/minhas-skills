@@ -1,0 +1,4 @@
+interface:
+  display_name: "Tarefas Acessíveis à Neurodivergência"
+  short_description: "Divide trabalho em passos claros e acompanháveis"
+  default_prompt: "Use $neurodivergent-task-writer para transformar este pedido em tarefas claras, pequenas e fáceis de acompanhar."
