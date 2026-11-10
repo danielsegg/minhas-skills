@@ -1,0 +1,4 @@
+interface:
+  display_name: "Database Optimization"
+  short_description: "Diagnostique queries, índices e gargalos com segurança"
+  default_prompt: "Use $database-optimization para analisar gargalos de banco com evidências e mudanças controladas."
