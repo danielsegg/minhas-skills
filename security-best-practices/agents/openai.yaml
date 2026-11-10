@@ -1,0 +1,4 @@
+interface:
+  display_name: "Security Best Practices"
+  short_description: "Evidence-based web application security"
+  default_prompt: "Use $security-best-practices to review this web application and produce prioritized, evidence-backed security findings."
