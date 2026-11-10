@@ -1,0 +1,4 @@
+interface:
+  display_name: "Gerador de Tarefas de Software"
+  short_description: "Cria tarefas concisas e divide escopos amplos"
+  default_prompt: "Use $software-task-generator para transformar este pedido em uma tarefa objetiva ou em um Epic com tarefas menores."
