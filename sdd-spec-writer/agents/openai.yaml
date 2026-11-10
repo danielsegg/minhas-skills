@@ -1,0 +1,4 @@
+interface:
+  display_name: "SDD Spec Writer"
+  short_description: "Write repository-grounded executable SDD specs"
+  default_prompt: "Use $sdd-spec-writer to analyze the project and write an executable .spec.md implementation contract for this task."
