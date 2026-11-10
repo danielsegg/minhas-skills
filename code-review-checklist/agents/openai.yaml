@@ -1,0 +1,4 @@
+interface:
+  display_name: "Checklist de Revisão de Código"
+  short_description: "Revisão técnica segura, objetiva e contextual"
+  default_prompt: "Use $code-review-checklist para revisar estas alterações e priorizar defeitos, regressões, segurança, desempenho e testes."
