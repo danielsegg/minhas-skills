@@ -1,0 +1,4 @@
+interface:
+  display_name: "Git PR"
+  short_description: "Draft Pull Request titles and bodies"
+  default_prompt: "Use $git-pr to analyze the current branch and draft a Pull Request title and body in Brazilian Portuguese."
